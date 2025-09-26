@@ -11,6 +11,6 @@ This project aims to develop a model which takes tickets raised by customers in 
 
 ## Tech Stack/Frameworks:
 
-    - Frontend: HTML, CSS
-    - Backend: Flask
-    - Python libraries: Numpy, Pandas, Matplotlib, NLTK, SpaCy
+    Frontend: HTML, CSS
+    Backend: Flask
+    Python libraries: Numpy, Pandas, Matplotlib, NLTK, SpaCy
